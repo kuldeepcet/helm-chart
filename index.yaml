@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: stable-perl
+    created: "2025-03-08T19:27:58.650068+05:30"
+    description: Helm chart to install nginx in Kubernetes
+    digest: 5a9203684cd86fec0548e90dc572d3dbe0d6885dd3f3f2fe68deb810087a16d6
+    name: nginx
+    type: application
+    urls:
+    - nginx-0.1.1.tgz
+    version: 0.1.1
+generated: "2025-03-08T19:27:58.6495513+05:30"

@@ -1,2 +1,4 @@
 # helm-chart
-Helm charts created by Kuldeep
+To install the helm chart > helm install <zip-folder-associated>
+To get the template > helm template <zip-folder>
+To get the linting results > helm lint <zip-folder>
